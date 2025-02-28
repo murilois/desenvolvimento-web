@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<receita>
+    <informações>
+        <nome>Ana <sobrenome>Maria Marina</sobrenome></nome>
+        <idade>7 Anos</idade>
+    </informações>
+    <medicamentos>
+        <uso>Uso interno</uso>
+        <remédio>Xarope SemTosse</remédio>
+        <modo-de-uso>1 colher 3x ao dia</modo-de-uso>
+        <uso>Uso externo</uso>
+        <remédio>Gyellow</remédio>
+        <modo-de-uso>aplicar no braço 1x ao dia ao deitar</modo-de-uso>
+    </medicamentos>
+</receita>
