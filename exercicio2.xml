@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <curriculo>
+    <nome tipo="aluno" id ="555" >Murilo<sobrenome>de Mattos Lima</sobrenome></nome>
+    <idade>19 Anos</idade>
+    <curso>Análise e Desenvolvimento de Sistemas</curso>
+    <idiomas>Português<nível>Nativo</nível></idiomas>
+    <idiomas>Inglês<nível>Fluente</nível></idiomas>
+    <cursos-extra></cursos-extra>
+</curriculo>
