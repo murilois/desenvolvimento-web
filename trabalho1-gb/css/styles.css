@@ -1,0 +1,119 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    border-bottom: 1px solid #ccc;
+}
+.header, .header-links{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.header{
+    margin: 0px auto;
+    padding: 20px 0;
+    max-width: 1200px;
+    width: 75%;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-links{
+    gap: 15px;
+}
+.header-links a{
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+}
+.main{
+    display: flex;
+    max-width: 1200px;
+    padding: 0px 50px;
+    position: relative;
+    margin: 50px auto;
+}
+.container{
+    flex: 2/3;
+    max-width: 800px;
+    margin: 0px 30px 0px 0px;
+}
+.container h2{
+    font-weight: bold;
+    font-size: 30px;
+    color: #333;
+}
+.container figcaption{
+    padding: 5px -5px 10px;
+}
+.container img{
+    width: 100%;
+    display: block;
+}
+.line{
+    border-top: 1px solid #ccc;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0px 15px;
+}
+aside{
+    flex: 1/3;
+}
+.aside-content{
+    margin: 10px 20px;
+    width: 300px;
+}
+.aside-content h1{
+    font-size:22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.aside-nav{
+    display: block;
+    border: 1px solid #ccc;
+    margin: 10px auto;
+    padding: 10px 15px;
+}
+.aside-nav input{
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-right: none;
+}
+button{
+    padding: 8px 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.aside-categorys{
+    display: block;
+    border: 1px solid #ccc;
+    margin: 10px auto;
+    padding: 10px 15px;
+}
+.aside-categorys p{
+    margin: 5px auto 10px;
+    color: #333;
+}
+.aside-tags{
+    display: block;
+    border: 1px solid #ccc;
+    margin: 10px auto;
+    padding: 10px 15px; 
+}
+.tags span{
+    background-color: #a1a1a1;
+    display: inline-block;
+    margin: 5px;
+    padding: 8px 12px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+}
