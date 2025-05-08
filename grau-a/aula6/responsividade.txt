@@ -1,0 +1,6 @@
+Introdução a Responsividade
+media query
+tem que adicionar uma meta tag com que se adapte com os dispositivos escala 1:1
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+
+Padrões de breakpoint
