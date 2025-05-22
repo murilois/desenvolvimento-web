@@ -1,0 +1,11 @@
+Eventos são elementos com ações com gatilhos ligados diretamente a algum comportamento do usuário
+-Clickar
+-Fechar
+*Conhecida por event handling
+1. Selecione o elemento 
+2. Adicionar um método capaz de detectar Eventos
+3. Em Javascript é addEventListener();
+4. Dentro deste método, declaramos qual o tipo de evento e oque ele irá fazer
+//
+Removendo Eventos
+removeEventListener();
