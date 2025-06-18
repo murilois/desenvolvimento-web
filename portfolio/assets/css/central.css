@@ -14,3 +14,12 @@
     object-fit: contain;
     margin-bottom: 1rem;
 }
+section{
+    padding: 1rem;
+}
+.content{
+    display: none;
+}
+.content.open{
+    display: block;
+}

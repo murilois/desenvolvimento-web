@@ -7,24 +7,40 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Python",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/python.svg"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/html.svg"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/css.svg"
       },
       {
         "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/javascript.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/javascript.svg"
       },
       {
         "name": "NodeJS",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/nodejs.svg"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/mongodb.svg"
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/python.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/postgresql.svg"
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/postgresql.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/mongodb.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/git.svg"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/refs/heads/master/portfolio/assets/imgs/icons/github.svg"
       }
     ],
     "softSkills": [
