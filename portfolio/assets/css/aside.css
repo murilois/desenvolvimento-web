@@ -1,0 +1,18 @@
+aside{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #fff;
+    border-radius: 1rem;
+    padding: 1rem 1rem;
+    margin: 1rem;
+    max-width: 324px;
+    box-shadow: 10px 10px 15px 1px #000000;
+    text-align: center;
+}
+aside li{
+    margin: 1rem;
+    list-style: none;
+}
+.skills img{
+    max-width: 10vh;
+}

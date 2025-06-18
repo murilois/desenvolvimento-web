@@ -1,0 +1,64 @@
+{
+  "name": "Murilo de Mattos Lima",
+  "photo": "https://avatars.githubusercontent.com/u/125592317?v=4",
+  "linkedin": "LinkedIn",
+  "github": "Github",
+  "email": "murilomattosdev05@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/python.svg"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/javascript.svg"
+      },
+      {
+        "name": "NodeJS",
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/nodejs.svg"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/mongodb.svg"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/murilois/portfolio-dio/refs/heads/main/assets/img/icons/postgresql.svg"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Pensamento Estratégico",
+      "Orientação a resultados"
+    ]
+  },
+  "portfolio": [
+    {
+      "name": "Projeto Guiado #1",
+      "url": "https://github.com/murilois/ProjetoGuiado1",
+      "github": true
+    },
+    {
+      "name": "Projeto Guiado #2",
+      "url": "https://github.com/murilois/ProjetoGuiado2",
+      "github": true
+    },
+    {
+      "name": "Projeto Guiado #3",
+      "url": "https://github.com/murilois/ProjetoGuiado3",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/murilois/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://github.com/murilois/Calculadora",
+      "github": true
+    }
+  ]
+}
