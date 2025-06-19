@@ -15,7 +15,27 @@ header img{
     border-radius: 50%;
 }
 .information p{
+    display: flex;
+    flex-direction: row;
     margin: 1rem auto;
+}
+.information p::before{
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    margin-right: .5rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.information .linkedin::before{
+    background-image: url('../imgs/InBug-White.png');
+}
+.information .github::before{
+    background-image: url('../imgs/github-mark-white.png');
+}
+.information .email::before{
+    background-image: url('../imgs/email.png');
 }
 @media only screen and (min-width:768px){
     header{
