@@ -13,6 +13,15 @@ aside li{
     margin: 1rem;
     list-style: none;
 }
-.skills img{
-    max-width: 10vh;
+.profissional-skills ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 auto;
+    margin: 0 auto;
+    justify-content: center;
+}
+.profissional-skills img{
+    max-width: 50px;
+    max-height: 50px;
 }
