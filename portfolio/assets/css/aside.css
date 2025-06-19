@@ -9,6 +9,9 @@ aside{
     box-shadow: 10px 10px 15px 1px #000000;
     text-align: center;
 }
+aside h3{
+    margin: 1rem;
+}
 aside li{
     margin: 1rem;
     list-style: none;
@@ -24,4 +27,7 @@ aside li{
 .profissional-skills img{
     max-width: 50px;
     max-height: 50px;
+}
+.personal-skills ul{
+    margin: 1rem;
 }
