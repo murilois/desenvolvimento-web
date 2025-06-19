@@ -54,27 +54,33 @@
     {
       "name": "Projeto Guiado #1",
       "url": "https://github.com/murilois/ProjetoGuiado1",
-      "github": true,
-      "img": ""
+      "img": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/master/portfolio/assets/imgs/projects/projetoguiado1.png",
+      "github": true
+      
     },
     {
       "name": "Projeto Guiado #2",
       "url": "https://github.com/murilois/ProjetoGuiado2",
+      "img": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/master/portfolio/assets/imgs/projects/projetoguiado2.png",
       "github": true
+
     },
     {
       "name": "Projeto Guiado #3",
       "url": "https://github.com/murilois/ProjetoGuiado3",
+      "img": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/master/portfolio/assets/imgs/projects/projetoguiado3.png",
       "github": true
     },
     {
       "name": "Pokedex",
       "url": "https://github.com/murilois/Pokedex",
+      "img": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/master/portfolio/assets/imgs/projects/pokedex.png",
       "github": true
     },
     {
       "name": "Calculadora",
       "url": "https://github.com/murilois/Calculadora",
+      "img": "https://raw.githubusercontent.com/murilois/desenvolvimento-web/master/portfolio/assets/imgs/projects/calculadora.png",
       "github": true
     }
   ]

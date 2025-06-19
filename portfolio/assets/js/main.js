@@ -22,13 +22,27 @@ function updateCentralInfo(profileData){
             </button>
             <div class="content">
                     <figure>
-                        <img src="assets/imgs/projetofinal1.png" alt="Loading">
-                        <figcaption><a href="">Clique para ver o repositório do projeto</a></figcaption>
+                        <img src=${project.img} alt=${project.name}>
+                        <figcaption><a href=${project.url} target="_blank">Clique para ver o repositório do projeto</a></figcaption>
                     </figure>
-            </div>`)
-.join('');
+            </div>`).join('');
+    const buttonTrigger = document.querySelectorAll('.trigger');
+
+    buttonTrigger.forEach((trigger)=>{
+    trigger.addEventListener('click', (e)=>{
+        const content = trigger.nextElementSibling;
+        const isOpen = content.classList.contains('open');
+
+        if(isOpen){
+            content.classList.remove('open');
+        }else{
+            content.classList.add('open');
+        }
+    })
+})
 }
 (async () => {
     const profileData = await fetchProfileData();
     updateProfileInfo(profileData);
+    updateCentralInfo(profileData);
 })()
